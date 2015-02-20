@@ -28,6 +28,7 @@ namespace Source_Control_test
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             label1.Visibility = System.Windows.Visibility.Visible;
+            // Luke was herer
         }
     }
 }
